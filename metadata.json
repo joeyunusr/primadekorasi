@@ -1,0 +1,8 @@
+{
+  "name": "Remix PT Prima Dekorasi Group - Manufaktur \u0026 Supplier Perlengkapan Event B2B",
+  "description": "Manufaktur konveksi, tekstil dekorasi, furnitur event, dan rangka tenda untuk kebutuhan bisnis persewaan, vendor, gedung pertemuan, dan perhotelan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
